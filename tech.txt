@@ -1,0 +1,11 @@
+AWS console
+Azure portal
+Byoa support portal
+cloud exponence portal
+commvault
+microsoft RDS
+MSP support portal
+Qualys
+Science logic
+Service now platform
+Tcs share point
